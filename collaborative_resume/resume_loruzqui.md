@@ -1,8 +1,9 @@
-# LORUZQUI
+# Loreto Uzquiano Esteban
 
-## *Ingeniera Informática*
+## _Software Engineer_
 
 ### [GitHub](https://github.com/loreeue)
+### [Linkedin](https://www.linkedin.com/in/loreto-uzquiano/)
 
 ---
 
@@ -16,11 +17,11 @@
 
 ---
 
-### Habilidades Técnicas *(Lenguajes y herramientas)*
+### Habilidades Técnicas _(Lenguajes y herramientas)_
 
 > * **Lenguajes:** Java, Python, C, C++, Scala, Prolog, Pascal, JavaScript, SQL, Ensamblador, R, HTML, CSS, React
 > * **Frameworks y tecnologías:** Spring Framework, Selenium, Postman
-> * **Bases de Datos:** PostgreSQL, H2, MongoDB
+> * **Bases de Datos:** MySQL, PostgreSQL, H2, MongoDB
 > * **Redes y Sistemas:** CISCO, Juniper, Teldat, Fortinet, FlexWAN, MacroLAN, VPNIP
 > * **Herramientas:** Git, Android Studio, Arduino, OpenGL
 
@@ -53,10 +54,16 @@
 
 ---
 
+### Idiomas
+
+> - Español — Nativo
+> - Inglés — Nivel B2
+
+---
+
 ### Competencias *- Soft Skills*
 
 > * Trabajo en equipo y colaboración
 > * Pensamiento crítico y adaptación
 > * Aprendizaje autónomo
 > * Gestión de proyectos
-> * Comunicación efectiva
